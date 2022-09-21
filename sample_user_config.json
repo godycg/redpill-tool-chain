@@ -1,7 +1,7 @@
 {
     "extra_cmdline": {
-        "pid": "0x0781",
-        "vid": "0x5591",
+        "pid": "0x0723",
+        "vid": "0x05E3",
         "sn": "1234XXX123",
         "mac1": "XXYYXXYYXXYY",
         "DiskIdxMap": "00",
